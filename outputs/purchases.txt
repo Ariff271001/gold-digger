@@ -5,3 +5,12 @@
 2026-03-01T16:17:27.853Z, amount paid: $4999, price per Oz: $5001, gold sold: 0.9996000799840032 Oz
 2026-03-03T14:21:26.212Z, amount paid: $100, price per Oz: $5000, gold sold: 0.02 Oz
 2026-03-03T14:43:39.535Z, amount paid: $500, price per Oz: $5001, gold sold: 0.09998000399920016 Oz
+2026-03-03T14:50:35.478Z, amount paid: $9898, price per Oz: $5000, gold sold: 1.9796 Oz
+2026-03-03T14:51:06.070Z, amount paid: $90000, price per Oz: $5000, gold sold: 18 Oz
+2026-03-03T14:51:33.176Z, amount paid: $1, price per Oz: $4997, gold sold: 0.00020012007204322593 Oz
+2026-03-03T14:52:05.426Z, amount paid: $2, price per Oz: $4994, gold sold: 0.00040048057669203043 Oz
+2026-03-03T14:53:50.035Z, amount paid: $3, price per Oz: $4995, gold sold: 0.0006006006006006006 Oz
+2026-03-03T14:56:59.648Z, amount paid: $3, price per Oz: $5000, gold sold: 0.0006 Oz
+2026-03-03T14:57:43.131Z, amount paid: $3, price per Oz: $5000, gold sold: 0.0006 Oz
+2026-03-03T14:57:47.838Z, amount paid: $5, price per Oz: $5000, gold sold: 0.001 Oz
+2026-03-03T14:57:52.809Z, amount paid: $9, price per Oz: $4999, gold sold: 0.0018003600720144029 Oz

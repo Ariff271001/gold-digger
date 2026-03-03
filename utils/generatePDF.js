@@ -1,7 +1,10 @@
 import fs from "node:fs";
 import pdfDocument from "pdfkit";
+import path from "node:path";
 
-export async function generatePDF(textPath, outputPath) {
+export function generatePDF() {
+    const textPath = path.join("outputs", "purchases.txt");
+    const outputPath = path.join("outputs", "purchases.pdf");
   try {
     const text = fs.readFileSync(textPath, "utf8");
     const doc = new pdfDocument();
